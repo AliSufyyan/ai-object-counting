@@ -1,4 +1,6 @@
 
+import sys
+print("Python executable:", sys.executable)
 from ultralytics import YOLO
 from pathlib import Path
 
