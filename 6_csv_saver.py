@@ -62,7 +62,8 @@ file_exists_and_has_data=(
 
 with open(csv_path, 'a', newline='',encoding='utf-8') as file:
     writer=csv.DictWriter(file,fieldnames=fieldnames)
-    timestamp=datetime.now().strftime('%Y-%M-%D %H:%M:%S')
+
+
     if not file_exists_and_has_data:
         writer.writeheader()
 
