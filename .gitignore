@@ -1,9 +1,18 @@
-
+# Python environment
 .venv/
-venv/
+
+# Python cache
 __pycache__/
 *.py[cod]
-.env
-*.pt
-runs/
-.ipynb_checkpoints/
+
+# Practice files
+TechoHub Practice/
+
+# YOLO model weights
+yolo11n.pt
+
+# Generated outputs
+outputs/
+
+# Local test images
+images/test/
