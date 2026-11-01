@@ -5,13 +5,13 @@ class ObjectCounter:
         for box in result.boxes:
             class_id=int(box.cls.item())
             class_name=result.names[class_id]
+            if class_name in class_count:
+                class_count[class_name]+=1
 
-            class_count[class_name]=class_count.get(class_name,0)+1
-
-            total=sum(class_count.values())
+        total=sum(class_count.values())
 
 
         return {
             'count':class_count,
-            'total': total
+            'total':total
         }

@@ -16,3 +16,7 @@ outputs/
 
 # Local test images
 images/test/
+
+outputs/annotated/
+outputs/counting_result.csv
+outputs/evaluation_report.csv
