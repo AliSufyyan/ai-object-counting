@@ -7,10 +7,27 @@ class ResultExporter:
         self.output_dir=Path(object_dir)
         self.output_dir.mkdir(parents=True,exist_ok=True)
 
-    def save_annotated_image(self,result,image_path):
+    def save_annotated_image(self, result, image_path, selected_classes=None):
         image_path=Path(image_path)
 
-        annotated_image=result.plot()
+        if selected_classes is not None:
+            selected_ids = [
+                class_id
+                for class_id, class_name in result.names.items()
+                if class_name in selected_classes
+            ]
+
+            keep_indices = [
+                i
+                for i, box in enumerate(result.boxes)
+                if int(box.cls.item()) in selected_ids
+            ]
+
+            filtered_boxes = result.boxes.data[keep_indices]
+
+            result.update(boxes=filtered_boxes)
+
+        annotated_image = result.plot()
 
         timestamp=datetime.now().strftime('%Y%m%d_%H%M%S')
 
