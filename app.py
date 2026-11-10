@@ -1,3 +1,4 @@
+import pandas as pd
 import tempfile
 from pathlib import Path
 import streamlit as st
@@ -113,3 +114,26 @@ if run_detection:
 
             for class_name, count in count_result["count"].items():
                 st.metric(class_name.title(), count)
+
+        # Prepare CSV data
+        csv_data = []
+
+        for class_name, count in count_result["count"].items():
+            csv_data.append({
+                "filename": uploaded_file.name,
+                "class_name": class_name,
+                "count": count,
+                "total_count": count_result["total"]
+            })
+
+        df = pd.DataFrame(csv_data)
+
+        csv = df.to_csv(index=False)
+
+        st.download_button(
+            label="Download Counting Results (CSV)",
+            data=csv,
+            file_name="counting_results.csv",
+            mime="text/csv",
+            use_container_width=True
+        )
