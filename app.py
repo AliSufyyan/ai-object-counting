@@ -101,7 +101,30 @@ if run_detection:
                     selected_classes
                 )
 
-        st.success("Detection completed successfully!")
+        st.success("Image analysis completed successfully!")
+
+        if count_result["total"] == 0:
+
+            st.warning(
+                "No selected objects were detected in this image. "
+                "Try selecting different classes or adjusting "
+                "the confidence threshold."
+            )
+
+        else:
+
+            zero_classes = [
+                class_name
+                for class_name, count
+                in count_result["count"].items()
+                if count == 0
+            ]
+
+            if zero_classes:
+                st.info(
+                    "No detections found for: "
+                    + ", ".join(zero_classes)
+                )
 
         st.subheader("Detection Results")
 
