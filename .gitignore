@@ -20,3 +20,6 @@ images/test/
 outputs/annotated/
 outputs/counting_result.csv
 outputs/evaluation_report.csv
+
+# Local dependency lockfile (deployment uses requirements.txt)
+uv.lock

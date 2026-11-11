@@ -1,0 +1,1201 @@
+filename,experiment,confidence,imgsz,class_name,count,total_count
+bus.jpg,baseline,0.25,640,person,4,5
+bus.jpg,baseline,0.25,640,bicycle,0,5
+bus.jpg,baseline,0.25,640,car,0,5
+bus.jpg,baseline,0.25,640,motorcycle,0,5
+bus.jpg,baseline,0.25,640,airplane,0,5
+bus.jpg,baseline,0.25,640,bus,1,5
+bus.jpg,baseline,0.25,640,train,0,5
+bus.jpg,baseline,0.25,640,truck,0,5
+bus.jpg,baseline,0.25,640,boat,0,5
+bus.jpg,baseline,0.25,640,traffic light,0,5
+bus.jpg,baseline,0.25,640,fire hydrant,0,5
+bus.jpg,baseline,0.25,640,stop sign,0,5
+bus.jpg,baseline,0.25,640,parking meter,0,5
+bus.jpg,baseline,0.25,640,bench,0,5
+bus.jpg,baseline,0.25,640,bird,0,5
+bus.jpg,baseline,0.25,640,cat,0,5
+bus.jpg,baseline,0.25,640,dog,0,5
+bus.jpg,baseline,0.25,640,horse,0,5
+bus.jpg,baseline,0.25,640,sheep,0,5
+bus.jpg,baseline,0.25,640,cow,0,5
+bus.jpg,baseline,0.25,640,elephant,0,5
+bus.jpg,baseline,0.25,640,bear,0,5
+bus.jpg,baseline,0.25,640,zebra,0,5
+bus.jpg,baseline,0.25,640,giraffe,0,5
+bus.jpg,baseline,0.25,640,backpack,0,5
+bus.jpg,baseline,0.25,640,umbrella,0,5
+bus.jpg,baseline,0.25,640,handbag,0,5
+bus.jpg,baseline,0.25,640,tie,0,5
+bus.jpg,baseline,0.25,640,suitcase,0,5
+bus.jpg,baseline,0.25,640,frisbee,0,5
+bus.jpg,baseline,0.25,640,skis,0,5
+bus.jpg,baseline,0.25,640,snowboard,0,5
+bus.jpg,baseline,0.25,640,sports ball,0,5
+bus.jpg,baseline,0.25,640,kite,0,5
+bus.jpg,baseline,0.25,640,baseball bat,0,5
+bus.jpg,baseline,0.25,640,baseball glove,0,5
+bus.jpg,baseline,0.25,640,skateboard,0,5
+bus.jpg,baseline,0.25,640,surfboard,0,5
+bus.jpg,baseline,0.25,640,tennis racket,0,5
+bus.jpg,baseline,0.25,640,bottle,0,5
+bus.jpg,baseline,0.25,640,wine glass,0,5
+bus.jpg,baseline,0.25,640,cup,0,5
+bus.jpg,baseline,0.25,640,fork,0,5
+bus.jpg,baseline,0.25,640,knife,0,5
+bus.jpg,baseline,0.25,640,spoon,0,5
+bus.jpg,baseline,0.25,640,bowl,0,5
+bus.jpg,baseline,0.25,640,banana,0,5
+bus.jpg,baseline,0.25,640,apple,0,5
+bus.jpg,baseline,0.25,640,sandwich,0,5
+bus.jpg,baseline,0.25,640,orange,0,5
+bus.jpg,baseline,0.25,640,broccoli,0,5
+bus.jpg,baseline,0.25,640,carrot,0,5
+bus.jpg,baseline,0.25,640,hot dog,0,5
+bus.jpg,baseline,0.25,640,pizza,0,5
+bus.jpg,baseline,0.25,640,donut,0,5
+bus.jpg,baseline,0.25,640,cake,0,5
+bus.jpg,baseline,0.25,640,chair,0,5
+bus.jpg,baseline,0.25,640,couch,0,5
+bus.jpg,baseline,0.25,640,potted plant,0,5
+bus.jpg,baseline,0.25,640,bed,0,5
+bus.jpg,baseline,0.25,640,dining table,0,5
+bus.jpg,baseline,0.25,640,toilet,0,5
+bus.jpg,baseline,0.25,640,tv,0,5
+bus.jpg,baseline,0.25,640,laptop,0,5
+bus.jpg,baseline,0.25,640,mouse,0,5
+bus.jpg,baseline,0.25,640,remote,0,5
+bus.jpg,baseline,0.25,640,keyboard,0,5
+bus.jpg,baseline,0.25,640,cell phone,0,5
+bus.jpg,baseline,0.25,640,microwave,0,5
+bus.jpg,baseline,0.25,640,oven,0,5
+bus.jpg,baseline,0.25,640,toaster,0,5
+bus.jpg,baseline,0.25,640,sink,0,5
+bus.jpg,baseline,0.25,640,refrigerator,0,5
+bus.jpg,baseline,0.25,640,book,0,5
+bus.jpg,baseline,0.25,640,clock,0,5
+bus.jpg,baseline,0.25,640,vase,0,5
+bus.jpg,baseline,0.25,640,scissors,0,5
+bus.jpg,baseline,0.25,640,teddy bear,0,5
+bus.jpg,baseline,0.25,640,hair drier,0,5
+bus.jpg,baseline,0.25,640,toothbrush,0,5
+bus.jpg,low_confidence,0.1,640,person,4,6
+bus.jpg,low_confidence,0.1,640,bicycle,0,6
+bus.jpg,low_confidence,0.1,640,car,0,6
+bus.jpg,low_confidence,0.1,640,motorcycle,0,6
+bus.jpg,low_confidence,0.1,640,airplane,0,6
+bus.jpg,low_confidence,0.1,640,bus,1,6
+bus.jpg,low_confidence,0.1,640,train,0,6
+bus.jpg,low_confidence,0.1,640,truck,0,6
+bus.jpg,low_confidence,0.1,640,boat,0,6
+bus.jpg,low_confidence,0.1,640,traffic light,0,6
+bus.jpg,low_confidence,0.1,640,fire hydrant,0,6
+bus.jpg,low_confidence,0.1,640,stop sign,0,6
+bus.jpg,low_confidence,0.1,640,parking meter,0,6
+bus.jpg,low_confidence,0.1,640,bench,0,6
+bus.jpg,low_confidence,0.1,640,bird,0,6
+bus.jpg,low_confidence,0.1,640,cat,0,6
+bus.jpg,low_confidence,0.1,640,dog,0,6
+bus.jpg,low_confidence,0.1,640,horse,0,6
+bus.jpg,low_confidence,0.1,640,sheep,0,6
+bus.jpg,low_confidence,0.1,640,cow,0,6
+bus.jpg,low_confidence,0.1,640,elephant,0,6
+bus.jpg,low_confidence,0.1,640,bear,0,6
+bus.jpg,low_confidence,0.1,640,zebra,0,6
+bus.jpg,low_confidence,0.1,640,giraffe,0,6
+bus.jpg,low_confidence,0.1,640,backpack,0,6
+bus.jpg,low_confidence,0.1,640,umbrella,0,6
+bus.jpg,low_confidence,0.1,640,handbag,0,6
+bus.jpg,low_confidence,0.1,640,tie,0,6
+bus.jpg,low_confidence,0.1,640,suitcase,0,6
+bus.jpg,low_confidence,0.1,640,frisbee,0,6
+bus.jpg,low_confidence,0.1,640,skis,0,6
+bus.jpg,low_confidence,0.1,640,snowboard,0,6
+bus.jpg,low_confidence,0.1,640,sports ball,0,6
+bus.jpg,low_confidence,0.1,640,kite,0,6
+bus.jpg,low_confidence,0.1,640,baseball bat,0,6
+bus.jpg,low_confidence,0.1,640,baseball glove,0,6
+bus.jpg,low_confidence,0.1,640,skateboard,1,6
+bus.jpg,low_confidence,0.1,640,surfboard,0,6
+bus.jpg,low_confidence,0.1,640,tennis racket,0,6
+bus.jpg,low_confidence,0.1,640,bottle,0,6
+bus.jpg,low_confidence,0.1,640,wine glass,0,6
+bus.jpg,low_confidence,0.1,640,cup,0,6
+bus.jpg,low_confidence,0.1,640,fork,0,6
+bus.jpg,low_confidence,0.1,640,knife,0,6
+bus.jpg,low_confidence,0.1,640,spoon,0,6
+bus.jpg,low_confidence,0.1,640,bowl,0,6
+bus.jpg,low_confidence,0.1,640,banana,0,6
+bus.jpg,low_confidence,0.1,640,apple,0,6
+bus.jpg,low_confidence,0.1,640,sandwich,0,6
+bus.jpg,low_confidence,0.1,640,orange,0,6
+bus.jpg,low_confidence,0.1,640,broccoli,0,6
+bus.jpg,low_confidence,0.1,640,carrot,0,6
+bus.jpg,low_confidence,0.1,640,hot dog,0,6
+bus.jpg,low_confidence,0.1,640,pizza,0,6
+bus.jpg,low_confidence,0.1,640,donut,0,6
+bus.jpg,low_confidence,0.1,640,cake,0,6
+bus.jpg,low_confidence,0.1,640,chair,0,6
+bus.jpg,low_confidence,0.1,640,couch,0,6
+bus.jpg,low_confidence,0.1,640,potted plant,0,6
+bus.jpg,low_confidence,0.1,640,bed,0,6
+bus.jpg,low_confidence,0.1,640,dining table,0,6
+bus.jpg,low_confidence,0.1,640,toilet,0,6
+bus.jpg,low_confidence,0.1,640,tv,0,6
+bus.jpg,low_confidence,0.1,640,laptop,0,6
+bus.jpg,low_confidence,0.1,640,mouse,0,6
+bus.jpg,low_confidence,0.1,640,remote,0,6
+bus.jpg,low_confidence,0.1,640,keyboard,0,6
+bus.jpg,low_confidence,0.1,640,cell phone,0,6
+bus.jpg,low_confidence,0.1,640,microwave,0,6
+bus.jpg,low_confidence,0.1,640,oven,0,6
+bus.jpg,low_confidence,0.1,640,toaster,0,6
+bus.jpg,low_confidence,0.1,640,sink,0,6
+bus.jpg,low_confidence,0.1,640,refrigerator,0,6
+bus.jpg,low_confidence,0.1,640,book,0,6
+bus.jpg,low_confidence,0.1,640,clock,0,6
+bus.jpg,low_confidence,0.1,640,vase,0,6
+bus.jpg,low_confidence,0.1,640,scissors,0,6
+bus.jpg,low_confidence,0.1,640,teddy bear,0,6
+bus.jpg,low_confidence,0.1,640,hair drier,0,6
+bus.jpg,low_confidence,0.1,640,toothbrush,0,6
+bus.jpg,high_resolution,0.25,1280,person,4,4
+bus.jpg,high_resolution,0.25,1280,bicycle,0,4
+bus.jpg,high_resolution,0.25,1280,car,0,4
+bus.jpg,high_resolution,0.25,1280,motorcycle,0,4
+bus.jpg,high_resolution,0.25,1280,airplane,0,4
+bus.jpg,high_resolution,0.25,1280,bus,0,4
+bus.jpg,high_resolution,0.25,1280,train,0,4
+bus.jpg,high_resolution,0.25,1280,truck,0,4
+bus.jpg,high_resolution,0.25,1280,boat,0,4
+bus.jpg,high_resolution,0.25,1280,traffic light,0,4
+bus.jpg,high_resolution,0.25,1280,fire hydrant,0,4
+bus.jpg,high_resolution,0.25,1280,stop sign,0,4
+bus.jpg,high_resolution,0.25,1280,parking meter,0,4
+bus.jpg,high_resolution,0.25,1280,bench,0,4
+bus.jpg,high_resolution,0.25,1280,bird,0,4
+bus.jpg,high_resolution,0.25,1280,cat,0,4
+bus.jpg,high_resolution,0.25,1280,dog,0,4
+bus.jpg,high_resolution,0.25,1280,horse,0,4
+bus.jpg,high_resolution,0.25,1280,sheep,0,4
+bus.jpg,high_resolution,0.25,1280,cow,0,4
+bus.jpg,high_resolution,0.25,1280,elephant,0,4
+bus.jpg,high_resolution,0.25,1280,bear,0,4
+bus.jpg,high_resolution,0.25,1280,zebra,0,4
+bus.jpg,high_resolution,0.25,1280,giraffe,0,4
+bus.jpg,high_resolution,0.25,1280,backpack,0,4
+bus.jpg,high_resolution,0.25,1280,umbrella,0,4
+bus.jpg,high_resolution,0.25,1280,handbag,0,4
+bus.jpg,high_resolution,0.25,1280,tie,0,4
+bus.jpg,high_resolution,0.25,1280,suitcase,0,4
+bus.jpg,high_resolution,0.25,1280,frisbee,0,4
+bus.jpg,high_resolution,0.25,1280,skis,0,4
+bus.jpg,high_resolution,0.25,1280,snowboard,0,4
+bus.jpg,high_resolution,0.25,1280,sports ball,0,4
+bus.jpg,high_resolution,0.25,1280,kite,0,4
+bus.jpg,high_resolution,0.25,1280,baseball bat,0,4
+bus.jpg,high_resolution,0.25,1280,baseball glove,0,4
+bus.jpg,high_resolution,0.25,1280,skateboard,0,4
+bus.jpg,high_resolution,0.25,1280,surfboard,0,4
+bus.jpg,high_resolution,0.25,1280,tennis racket,0,4
+bus.jpg,high_resolution,0.25,1280,bottle,0,4
+bus.jpg,high_resolution,0.25,1280,wine glass,0,4
+bus.jpg,high_resolution,0.25,1280,cup,0,4
+bus.jpg,high_resolution,0.25,1280,fork,0,4
+bus.jpg,high_resolution,0.25,1280,knife,0,4
+bus.jpg,high_resolution,0.25,1280,spoon,0,4
+bus.jpg,high_resolution,0.25,1280,bowl,0,4
+bus.jpg,high_resolution,0.25,1280,banana,0,4
+bus.jpg,high_resolution,0.25,1280,apple,0,4
+bus.jpg,high_resolution,0.25,1280,sandwich,0,4
+bus.jpg,high_resolution,0.25,1280,orange,0,4
+bus.jpg,high_resolution,0.25,1280,broccoli,0,4
+bus.jpg,high_resolution,0.25,1280,carrot,0,4
+bus.jpg,high_resolution,0.25,1280,hot dog,0,4
+bus.jpg,high_resolution,0.25,1280,pizza,0,4
+bus.jpg,high_resolution,0.25,1280,donut,0,4
+bus.jpg,high_resolution,0.25,1280,cake,0,4
+bus.jpg,high_resolution,0.25,1280,chair,0,4
+bus.jpg,high_resolution,0.25,1280,couch,0,4
+bus.jpg,high_resolution,0.25,1280,potted plant,0,4
+bus.jpg,high_resolution,0.25,1280,bed,0,4
+bus.jpg,high_resolution,0.25,1280,dining table,0,4
+bus.jpg,high_resolution,0.25,1280,toilet,0,4
+bus.jpg,high_resolution,0.25,1280,tv,0,4
+bus.jpg,high_resolution,0.25,1280,laptop,0,4
+bus.jpg,high_resolution,0.25,1280,mouse,0,4
+bus.jpg,high_resolution,0.25,1280,remote,0,4
+bus.jpg,high_resolution,0.25,1280,keyboard,0,4
+bus.jpg,high_resolution,0.25,1280,cell phone,0,4
+bus.jpg,high_resolution,0.25,1280,microwave,0,4
+bus.jpg,high_resolution,0.25,1280,oven,0,4
+bus.jpg,high_resolution,0.25,1280,toaster,0,4
+bus.jpg,high_resolution,0.25,1280,sink,0,4
+bus.jpg,high_resolution,0.25,1280,refrigerator,0,4
+bus.jpg,high_resolution,0.25,1280,book,0,4
+bus.jpg,high_resolution,0.25,1280,clock,0,4
+bus.jpg,high_resolution,0.25,1280,vase,0,4
+bus.jpg,high_resolution,0.25,1280,scissors,0,4
+bus.jpg,high_resolution,0.25,1280,teddy bear,0,4
+bus.jpg,high_resolution,0.25,1280,hair drier,0,4
+bus.jpg,high_resolution,0.25,1280,toothbrush,0,4
+image_01.jpg,baseline,0.25,640,person,12,19
+image_01.jpg,baseline,0.25,640,bicycle,0,19
+image_01.jpg,baseline,0.25,640,car,3,19
+image_01.jpg,baseline,0.25,640,motorcycle,0,19
+image_01.jpg,baseline,0.25,640,airplane,0,19
+image_01.jpg,baseline,0.25,640,bus,1,19
+image_01.jpg,baseline,0.25,640,train,0,19
+image_01.jpg,baseline,0.25,640,truck,0,19
+image_01.jpg,baseline,0.25,640,boat,0,19
+image_01.jpg,baseline,0.25,640,traffic light,0,19
+image_01.jpg,baseline,0.25,640,fire hydrant,0,19
+image_01.jpg,baseline,0.25,640,stop sign,0,19
+image_01.jpg,baseline,0.25,640,parking meter,0,19
+image_01.jpg,baseline,0.25,640,bench,0,19
+image_01.jpg,baseline,0.25,640,bird,0,19
+image_01.jpg,baseline,0.25,640,cat,0,19
+image_01.jpg,baseline,0.25,640,dog,0,19
+image_01.jpg,baseline,0.25,640,horse,0,19
+image_01.jpg,baseline,0.25,640,sheep,0,19
+image_01.jpg,baseline,0.25,640,cow,0,19
+image_01.jpg,baseline,0.25,640,elephant,0,19
+image_01.jpg,baseline,0.25,640,bear,0,19
+image_01.jpg,baseline,0.25,640,zebra,0,19
+image_01.jpg,baseline,0.25,640,giraffe,0,19
+image_01.jpg,baseline,0.25,640,backpack,0,19
+image_01.jpg,baseline,0.25,640,umbrella,0,19
+image_01.jpg,baseline,0.25,640,handbag,3,19
+image_01.jpg,baseline,0.25,640,tie,0,19
+image_01.jpg,baseline,0.25,640,suitcase,0,19
+image_01.jpg,baseline,0.25,640,frisbee,0,19
+image_01.jpg,baseline,0.25,640,skis,0,19
+image_01.jpg,baseline,0.25,640,snowboard,0,19
+image_01.jpg,baseline,0.25,640,sports ball,0,19
+image_01.jpg,baseline,0.25,640,kite,0,19
+image_01.jpg,baseline,0.25,640,baseball bat,0,19
+image_01.jpg,baseline,0.25,640,baseball glove,0,19
+image_01.jpg,baseline,0.25,640,skateboard,0,19
+image_01.jpg,baseline,0.25,640,surfboard,0,19
+image_01.jpg,baseline,0.25,640,tennis racket,0,19
+image_01.jpg,baseline,0.25,640,bottle,0,19
+image_01.jpg,baseline,0.25,640,wine glass,0,19
+image_01.jpg,baseline,0.25,640,cup,0,19
+image_01.jpg,baseline,0.25,640,fork,0,19
+image_01.jpg,baseline,0.25,640,knife,0,19
+image_01.jpg,baseline,0.25,640,spoon,0,19
+image_01.jpg,baseline,0.25,640,bowl,0,19
+image_01.jpg,baseline,0.25,640,banana,0,19
+image_01.jpg,baseline,0.25,640,apple,0,19
+image_01.jpg,baseline,0.25,640,sandwich,0,19
+image_01.jpg,baseline,0.25,640,orange,0,19
+image_01.jpg,baseline,0.25,640,broccoli,0,19
+image_01.jpg,baseline,0.25,640,carrot,0,19
+image_01.jpg,baseline,0.25,640,hot dog,0,19
+image_01.jpg,baseline,0.25,640,pizza,0,19
+image_01.jpg,baseline,0.25,640,donut,0,19
+image_01.jpg,baseline,0.25,640,cake,0,19
+image_01.jpg,baseline,0.25,640,chair,0,19
+image_01.jpg,baseline,0.25,640,couch,0,19
+image_01.jpg,baseline,0.25,640,potted plant,0,19
+image_01.jpg,baseline,0.25,640,bed,0,19
+image_01.jpg,baseline,0.25,640,dining table,0,19
+image_01.jpg,baseline,0.25,640,toilet,0,19
+image_01.jpg,baseline,0.25,640,tv,0,19
+image_01.jpg,baseline,0.25,640,laptop,0,19
+image_01.jpg,baseline,0.25,640,mouse,0,19
+image_01.jpg,baseline,0.25,640,remote,0,19
+image_01.jpg,baseline,0.25,640,keyboard,0,19
+image_01.jpg,baseline,0.25,640,cell phone,0,19
+image_01.jpg,baseline,0.25,640,microwave,0,19
+image_01.jpg,baseline,0.25,640,oven,0,19
+image_01.jpg,baseline,0.25,640,toaster,0,19
+image_01.jpg,baseline,0.25,640,sink,0,19
+image_01.jpg,baseline,0.25,640,refrigerator,0,19
+image_01.jpg,baseline,0.25,640,book,0,19
+image_01.jpg,baseline,0.25,640,clock,0,19
+image_01.jpg,baseline,0.25,640,vase,0,19
+image_01.jpg,baseline,0.25,640,scissors,0,19
+image_01.jpg,baseline,0.25,640,teddy bear,0,19
+image_01.jpg,baseline,0.25,640,hair drier,0,19
+image_01.jpg,baseline,0.25,640,toothbrush,0,19
+image_01.jpg,low_confidence,0.1,640,person,25,37
+image_01.jpg,low_confidence,0.1,640,bicycle,0,37
+image_01.jpg,low_confidence,0.1,640,car,6,37
+image_01.jpg,low_confidence,0.1,640,motorcycle,0,37
+image_01.jpg,low_confidence,0.1,640,airplane,0,37
+image_01.jpg,low_confidence,0.1,640,bus,2,37
+image_01.jpg,low_confidence,0.1,640,train,0,37
+image_01.jpg,low_confidence,0.1,640,truck,0,37
+image_01.jpg,low_confidence,0.1,640,boat,0,37
+image_01.jpg,low_confidence,0.1,640,traffic light,1,37
+image_01.jpg,low_confidence,0.1,640,fire hydrant,0,37
+image_01.jpg,low_confidence,0.1,640,stop sign,0,37
+image_01.jpg,low_confidence,0.1,640,parking meter,0,37
+image_01.jpg,low_confidence,0.1,640,bench,0,37
+image_01.jpg,low_confidence,0.1,640,bird,0,37
+image_01.jpg,low_confidence,0.1,640,cat,0,37
+image_01.jpg,low_confidence,0.1,640,dog,0,37
+image_01.jpg,low_confidence,0.1,640,horse,0,37
+image_01.jpg,low_confidence,0.1,640,sheep,0,37
+image_01.jpg,low_confidence,0.1,640,cow,0,37
+image_01.jpg,low_confidence,0.1,640,elephant,0,37
+image_01.jpg,low_confidence,0.1,640,bear,0,37
+image_01.jpg,low_confidence,0.1,640,zebra,0,37
+image_01.jpg,low_confidence,0.1,640,giraffe,0,37
+image_01.jpg,low_confidence,0.1,640,backpack,0,37
+image_01.jpg,low_confidence,0.1,640,umbrella,0,37
+image_01.jpg,low_confidence,0.1,640,handbag,3,37
+image_01.jpg,low_confidence,0.1,640,tie,0,37
+image_01.jpg,low_confidence,0.1,640,suitcase,0,37
+image_01.jpg,low_confidence,0.1,640,frisbee,0,37
+image_01.jpg,low_confidence,0.1,640,skis,0,37
+image_01.jpg,low_confidence,0.1,640,snowboard,0,37
+image_01.jpg,low_confidence,0.1,640,sports ball,0,37
+image_01.jpg,low_confidence,0.1,640,kite,0,37
+image_01.jpg,low_confidence,0.1,640,baseball bat,0,37
+image_01.jpg,low_confidence,0.1,640,baseball glove,0,37
+image_01.jpg,low_confidence,0.1,640,skateboard,0,37
+image_01.jpg,low_confidence,0.1,640,surfboard,0,37
+image_01.jpg,low_confidence,0.1,640,tennis racket,0,37
+image_01.jpg,low_confidence,0.1,640,bottle,0,37
+image_01.jpg,low_confidence,0.1,640,wine glass,0,37
+image_01.jpg,low_confidence,0.1,640,cup,0,37
+image_01.jpg,low_confidence,0.1,640,fork,0,37
+image_01.jpg,low_confidence,0.1,640,knife,0,37
+image_01.jpg,low_confidence,0.1,640,spoon,0,37
+image_01.jpg,low_confidence,0.1,640,bowl,0,37
+image_01.jpg,low_confidence,0.1,640,banana,0,37
+image_01.jpg,low_confidence,0.1,640,apple,0,37
+image_01.jpg,low_confidence,0.1,640,sandwich,0,37
+image_01.jpg,low_confidence,0.1,640,orange,0,37
+image_01.jpg,low_confidence,0.1,640,broccoli,0,37
+image_01.jpg,low_confidence,0.1,640,carrot,0,37
+image_01.jpg,low_confidence,0.1,640,hot dog,0,37
+image_01.jpg,low_confidence,0.1,640,pizza,0,37
+image_01.jpg,low_confidence,0.1,640,donut,0,37
+image_01.jpg,low_confidence,0.1,640,cake,0,37
+image_01.jpg,low_confidence,0.1,640,chair,0,37
+image_01.jpg,low_confidence,0.1,640,couch,0,37
+image_01.jpg,low_confidence,0.1,640,potted plant,0,37
+image_01.jpg,low_confidence,0.1,640,bed,0,37
+image_01.jpg,low_confidence,0.1,640,dining table,0,37
+image_01.jpg,low_confidence,0.1,640,toilet,0,37
+image_01.jpg,low_confidence,0.1,640,tv,0,37
+image_01.jpg,low_confidence,0.1,640,laptop,0,37
+image_01.jpg,low_confidence,0.1,640,mouse,0,37
+image_01.jpg,low_confidence,0.1,640,remote,0,37
+image_01.jpg,low_confidence,0.1,640,keyboard,0,37
+image_01.jpg,low_confidence,0.1,640,cell phone,0,37
+image_01.jpg,low_confidence,0.1,640,microwave,0,37
+image_01.jpg,low_confidence,0.1,640,oven,0,37
+image_01.jpg,low_confidence,0.1,640,toaster,0,37
+image_01.jpg,low_confidence,0.1,640,sink,0,37
+image_01.jpg,low_confidence,0.1,640,refrigerator,0,37
+image_01.jpg,low_confidence,0.1,640,book,0,37
+image_01.jpg,low_confidence,0.1,640,clock,0,37
+image_01.jpg,low_confidence,0.1,640,vase,0,37
+image_01.jpg,low_confidence,0.1,640,scissors,0,37
+image_01.jpg,low_confidence,0.1,640,teddy bear,0,37
+image_01.jpg,low_confidence,0.1,640,hair drier,0,37
+image_01.jpg,low_confidence,0.1,640,toothbrush,0,37
+image_01.jpg,high_resolution,0.25,1280,person,18,28
+image_01.jpg,high_resolution,0.25,1280,bicycle,0,28
+image_01.jpg,high_resolution,0.25,1280,car,4,28
+image_01.jpg,high_resolution,0.25,1280,motorcycle,0,28
+image_01.jpg,high_resolution,0.25,1280,airplane,0,28
+image_01.jpg,high_resolution,0.25,1280,bus,1,28
+image_01.jpg,high_resolution,0.25,1280,train,0,28
+image_01.jpg,high_resolution,0.25,1280,truck,0,28
+image_01.jpg,high_resolution,0.25,1280,boat,0,28
+image_01.jpg,high_resolution,0.25,1280,traffic light,2,28
+image_01.jpg,high_resolution,0.25,1280,fire hydrant,0,28
+image_01.jpg,high_resolution,0.25,1280,stop sign,0,28
+image_01.jpg,high_resolution,0.25,1280,parking meter,0,28
+image_01.jpg,high_resolution,0.25,1280,bench,0,28
+image_01.jpg,high_resolution,0.25,1280,bird,0,28
+image_01.jpg,high_resolution,0.25,1280,cat,0,28
+image_01.jpg,high_resolution,0.25,1280,dog,0,28
+image_01.jpg,high_resolution,0.25,1280,horse,0,28
+image_01.jpg,high_resolution,0.25,1280,sheep,0,28
+image_01.jpg,high_resolution,0.25,1280,cow,0,28
+image_01.jpg,high_resolution,0.25,1280,elephant,0,28
+image_01.jpg,high_resolution,0.25,1280,bear,0,28
+image_01.jpg,high_resolution,0.25,1280,zebra,0,28
+image_01.jpg,high_resolution,0.25,1280,giraffe,0,28
+image_01.jpg,high_resolution,0.25,1280,backpack,0,28
+image_01.jpg,high_resolution,0.25,1280,umbrella,1,28
+image_01.jpg,high_resolution,0.25,1280,handbag,2,28
+image_01.jpg,high_resolution,0.25,1280,tie,0,28
+image_01.jpg,high_resolution,0.25,1280,suitcase,0,28
+image_01.jpg,high_resolution,0.25,1280,frisbee,0,28
+image_01.jpg,high_resolution,0.25,1280,skis,0,28
+image_01.jpg,high_resolution,0.25,1280,snowboard,0,28
+image_01.jpg,high_resolution,0.25,1280,sports ball,0,28
+image_01.jpg,high_resolution,0.25,1280,kite,0,28
+image_01.jpg,high_resolution,0.25,1280,baseball bat,0,28
+image_01.jpg,high_resolution,0.25,1280,baseball glove,0,28
+image_01.jpg,high_resolution,0.25,1280,skateboard,0,28
+image_01.jpg,high_resolution,0.25,1280,surfboard,0,28
+image_01.jpg,high_resolution,0.25,1280,tennis racket,0,28
+image_01.jpg,high_resolution,0.25,1280,bottle,0,28
+image_01.jpg,high_resolution,0.25,1280,wine glass,0,28
+image_01.jpg,high_resolution,0.25,1280,cup,0,28
+image_01.jpg,high_resolution,0.25,1280,fork,0,28
+image_01.jpg,high_resolution,0.25,1280,knife,0,28
+image_01.jpg,high_resolution,0.25,1280,spoon,0,28
+image_01.jpg,high_resolution,0.25,1280,bowl,0,28
+image_01.jpg,high_resolution,0.25,1280,banana,0,28
+image_01.jpg,high_resolution,0.25,1280,apple,0,28
+image_01.jpg,high_resolution,0.25,1280,sandwich,0,28
+image_01.jpg,high_resolution,0.25,1280,orange,0,28
+image_01.jpg,high_resolution,0.25,1280,broccoli,0,28
+image_01.jpg,high_resolution,0.25,1280,carrot,0,28
+image_01.jpg,high_resolution,0.25,1280,hot dog,0,28
+image_01.jpg,high_resolution,0.25,1280,pizza,0,28
+image_01.jpg,high_resolution,0.25,1280,donut,0,28
+image_01.jpg,high_resolution,0.25,1280,cake,0,28
+image_01.jpg,high_resolution,0.25,1280,chair,0,28
+image_01.jpg,high_resolution,0.25,1280,couch,0,28
+image_01.jpg,high_resolution,0.25,1280,potted plant,0,28
+image_01.jpg,high_resolution,0.25,1280,bed,0,28
+image_01.jpg,high_resolution,0.25,1280,dining table,0,28
+image_01.jpg,high_resolution,0.25,1280,toilet,0,28
+image_01.jpg,high_resolution,0.25,1280,tv,0,28
+image_01.jpg,high_resolution,0.25,1280,laptop,0,28
+image_01.jpg,high_resolution,0.25,1280,mouse,0,28
+image_01.jpg,high_resolution,0.25,1280,remote,0,28
+image_01.jpg,high_resolution,0.25,1280,keyboard,0,28
+image_01.jpg,high_resolution,0.25,1280,cell phone,0,28
+image_01.jpg,high_resolution,0.25,1280,microwave,0,28
+image_01.jpg,high_resolution,0.25,1280,oven,0,28
+image_01.jpg,high_resolution,0.25,1280,toaster,0,28
+image_01.jpg,high_resolution,0.25,1280,sink,0,28
+image_01.jpg,high_resolution,0.25,1280,refrigerator,0,28
+image_01.jpg,high_resolution,0.25,1280,book,0,28
+image_01.jpg,high_resolution,0.25,1280,clock,0,28
+image_01.jpg,high_resolution,0.25,1280,vase,0,28
+image_01.jpg,high_resolution,0.25,1280,scissors,0,28
+image_01.jpg,high_resolution,0.25,1280,teddy bear,0,28
+image_01.jpg,high_resolution,0.25,1280,hair drier,0,28
+image_01.jpg,high_resolution,0.25,1280,toothbrush,0,28
+image_02.jpg,baseline,0.25,640,person,3,23
+image_02.jpg,baseline,0.25,640,bicycle,0,23
+image_02.jpg,baseline,0.25,640,car,15,23
+image_02.jpg,baseline,0.25,640,motorcycle,4,23
+image_02.jpg,baseline,0.25,640,airplane,0,23
+image_02.jpg,baseline,0.25,640,bus,1,23
+image_02.jpg,baseline,0.25,640,train,0,23
+image_02.jpg,baseline,0.25,640,truck,0,23
+image_02.jpg,baseline,0.25,640,boat,0,23
+image_02.jpg,baseline,0.25,640,traffic light,0,23
+image_02.jpg,baseline,0.25,640,fire hydrant,0,23
+image_02.jpg,baseline,0.25,640,stop sign,0,23
+image_02.jpg,baseline,0.25,640,parking meter,0,23
+image_02.jpg,baseline,0.25,640,bench,0,23
+image_02.jpg,baseline,0.25,640,bird,0,23
+image_02.jpg,baseline,0.25,640,cat,0,23
+image_02.jpg,baseline,0.25,640,dog,0,23
+image_02.jpg,baseline,0.25,640,horse,0,23
+image_02.jpg,baseline,0.25,640,sheep,0,23
+image_02.jpg,baseline,0.25,640,cow,0,23
+image_02.jpg,baseline,0.25,640,elephant,0,23
+image_02.jpg,baseline,0.25,640,bear,0,23
+image_02.jpg,baseline,0.25,640,zebra,0,23
+image_02.jpg,baseline,0.25,640,giraffe,0,23
+image_02.jpg,baseline,0.25,640,backpack,0,23
+image_02.jpg,baseline,0.25,640,umbrella,0,23
+image_02.jpg,baseline,0.25,640,handbag,0,23
+image_02.jpg,baseline,0.25,640,tie,0,23
+image_02.jpg,baseline,0.25,640,suitcase,0,23
+image_02.jpg,baseline,0.25,640,frisbee,0,23
+image_02.jpg,baseline,0.25,640,skis,0,23
+image_02.jpg,baseline,0.25,640,snowboard,0,23
+image_02.jpg,baseline,0.25,640,sports ball,0,23
+image_02.jpg,baseline,0.25,640,kite,0,23
+image_02.jpg,baseline,0.25,640,baseball bat,0,23
+image_02.jpg,baseline,0.25,640,baseball glove,0,23
+image_02.jpg,baseline,0.25,640,skateboard,0,23
+image_02.jpg,baseline,0.25,640,surfboard,0,23
+image_02.jpg,baseline,0.25,640,tennis racket,0,23
+image_02.jpg,baseline,0.25,640,bottle,0,23
+image_02.jpg,baseline,0.25,640,wine glass,0,23
+image_02.jpg,baseline,0.25,640,cup,0,23
+image_02.jpg,baseline,0.25,640,fork,0,23
+image_02.jpg,baseline,0.25,640,knife,0,23
+image_02.jpg,baseline,0.25,640,spoon,0,23
+image_02.jpg,baseline,0.25,640,bowl,0,23
+image_02.jpg,baseline,0.25,640,banana,0,23
+image_02.jpg,baseline,0.25,640,apple,0,23
+image_02.jpg,baseline,0.25,640,sandwich,0,23
+image_02.jpg,baseline,0.25,640,orange,0,23
+image_02.jpg,baseline,0.25,640,broccoli,0,23
+image_02.jpg,baseline,0.25,640,carrot,0,23
+image_02.jpg,baseline,0.25,640,hot dog,0,23
+image_02.jpg,baseline,0.25,640,pizza,0,23
+image_02.jpg,baseline,0.25,640,donut,0,23
+image_02.jpg,baseline,0.25,640,cake,0,23
+image_02.jpg,baseline,0.25,640,chair,0,23
+image_02.jpg,baseline,0.25,640,couch,0,23
+image_02.jpg,baseline,0.25,640,potted plant,0,23
+image_02.jpg,baseline,0.25,640,bed,0,23
+image_02.jpg,baseline,0.25,640,dining table,0,23
+image_02.jpg,baseline,0.25,640,toilet,0,23
+image_02.jpg,baseline,0.25,640,tv,0,23
+image_02.jpg,baseline,0.25,640,laptop,0,23
+image_02.jpg,baseline,0.25,640,mouse,0,23
+image_02.jpg,baseline,0.25,640,remote,0,23
+image_02.jpg,baseline,0.25,640,keyboard,0,23
+image_02.jpg,baseline,0.25,640,cell phone,0,23
+image_02.jpg,baseline,0.25,640,microwave,0,23
+image_02.jpg,baseline,0.25,640,oven,0,23
+image_02.jpg,baseline,0.25,640,toaster,0,23
+image_02.jpg,baseline,0.25,640,sink,0,23
+image_02.jpg,baseline,0.25,640,refrigerator,0,23
+image_02.jpg,baseline,0.25,640,book,0,23
+image_02.jpg,baseline,0.25,640,clock,0,23
+image_02.jpg,baseline,0.25,640,vase,0,23
+image_02.jpg,baseline,0.25,640,scissors,0,23
+image_02.jpg,baseline,0.25,640,teddy bear,0,23
+image_02.jpg,baseline,0.25,640,hair drier,0,23
+image_02.jpg,baseline,0.25,640,toothbrush,0,23
+image_02.jpg,low_confidence,0.1,640,person,18,63
+image_02.jpg,low_confidence,0.1,640,bicycle,0,63
+image_02.jpg,low_confidence,0.1,640,car,23,63
+image_02.jpg,low_confidence,0.1,640,motorcycle,14,63
+image_02.jpg,low_confidence,0.1,640,airplane,0,63
+image_02.jpg,low_confidence,0.1,640,bus,4,63
+image_02.jpg,low_confidence,0.1,640,train,0,63
+image_02.jpg,low_confidence,0.1,640,truck,4,63
+image_02.jpg,low_confidence,0.1,640,boat,0,63
+image_02.jpg,low_confidence,0.1,640,traffic light,0,63
+image_02.jpg,low_confidence,0.1,640,fire hydrant,0,63
+image_02.jpg,low_confidence,0.1,640,stop sign,0,63
+image_02.jpg,low_confidence,0.1,640,parking meter,0,63
+image_02.jpg,low_confidence,0.1,640,bench,0,63
+image_02.jpg,low_confidence,0.1,640,bird,0,63
+image_02.jpg,low_confidence,0.1,640,cat,0,63
+image_02.jpg,low_confidence,0.1,640,dog,0,63
+image_02.jpg,low_confidence,0.1,640,horse,0,63
+image_02.jpg,low_confidence,0.1,640,sheep,0,63
+image_02.jpg,low_confidence,0.1,640,cow,0,63
+image_02.jpg,low_confidence,0.1,640,elephant,0,63
+image_02.jpg,low_confidence,0.1,640,bear,0,63
+image_02.jpg,low_confidence,0.1,640,zebra,0,63
+image_02.jpg,low_confidence,0.1,640,giraffe,0,63
+image_02.jpg,low_confidence,0.1,640,backpack,0,63
+image_02.jpg,low_confidence,0.1,640,umbrella,0,63
+image_02.jpg,low_confidence,0.1,640,handbag,0,63
+image_02.jpg,low_confidence,0.1,640,tie,0,63
+image_02.jpg,low_confidence,0.1,640,suitcase,0,63
+image_02.jpg,low_confidence,0.1,640,frisbee,0,63
+image_02.jpg,low_confidence,0.1,640,skis,0,63
+image_02.jpg,low_confidence,0.1,640,snowboard,0,63
+image_02.jpg,low_confidence,0.1,640,sports ball,0,63
+image_02.jpg,low_confidence,0.1,640,kite,0,63
+image_02.jpg,low_confidence,0.1,640,baseball bat,0,63
+image_02.jpg,low_confidence,0.1,640,baseball glove,0,63
+image_02.jpg,low_confidence,0.1,640,skateboard,0,63
+image_02.jpg,low_confidence,0.1,640,surfboard,0,63
+image_02.jpg,low_confidence,0.1,640,tennis racket,0,63
+image_02.jpg,low_confidence,0.1,640,bottle,0,63
+image_02.jpg,low_confidence,0.1,640,wine glass,0,63
+image_02.jpg,low_confidence,0.1,640,cup,0,63
+image_02.jpg,low_confidence,0.1,640,fork,0,63
+image_02.jpg,low_confidence,0.1,640,knife,0,63
+image_02.jpg,low_confidence,0.1,640,spoon,0,63
+image_02.jpg,low_confidence,0.1,640,bowl,0,63
+image_02.jpg,low_confidence,0.1,640,banana,0,63
+image_02.jpg,low_confidence,0.1,640,apple,0,63
+image_02.jpg,low_confidence,0.1,640,sandwich,0,63
+image_02.jpg,low_confidence,0.1,640,orange,0,63
+image_02.jpg,low_confidence,0.1,640,broccoli,0,63
+image_02.jpg,low_confidence,0.1,640,carrot,0,63
+image_02.jpg,low_confidence,0.1,640,hot dog,0,63
+image_02.jpg,low_confidence,0.1,640,pizza,0,63
+image_02.jpg,low_confidence,0.1,640,donut,0,63
+image_02.jpg,low_confidence,0.1,640,cake,0,63
+image_02.jpg,low_confidence,0.1,640,chair,0,63
+image_02.jpg,low_confidence,0.1,640,couch,0,63
+image_02.jpg,low_confidence,0.1,640,potted plant,0,63
+image_02.jpg,low_confidence,0.1,640,bed,0,63
+image_02.jpg,low_confidence,0.1,640,dining table,0,63
+image_02.jpg,low_confidence,0.1,640,toilet,0,63
+image_02.jpg,low_confidence,0.1,640,tv,0,63
+image_02.jpg,low_confidence,0.1,640,laptop,0,63
+image_02.jpg,low_confidence,0.1,640,mouse,0,63
+image_02.jpg,low_confidence,0.1,640,remote,0,63
+image_02.jpg,low_confidence,0.1,640,keyboard,0,63
+image_02.jpg,low_confidence,0.1,640,cell phone,0,63
+image_02.jpg,low_confidence,0.1,640,microwave,0,63
+image_02.jpg,low_confidence,0.1,640,oven,0,63
+image_02.jpg,low_confidence,0.1,640,toaster,0,63
+image_02.jpg,low_confidence,0.1,640,sink,0,63
+image_02.jpg,low_confidence,0.1,640,refrigerator,0,63
+image_02.jpg,low_confidence,0.1,640,book,0,63
+image_02.jpg,low_confidence,0.1,640,clock,0,63
+image_02.jpg,low_confidence,0.1,640,vase,0,63
+image_02.jpg,low_confidence,0.1,640,scissors,0,63
+image_02.jpg,low_confidence,0.1,640,teddy bear,0,63
+image_02.jpg,low_confidence,0.1,640,hair drier,0,63
+image_02.jpg,low_confidence,0.1,640,toothbrush,0,63
+image_02.jpg,high_resolution,0.25,1280,person,20,79
+image_02.jpg,high_resolution,0.25,1280,bicycle,0,79
+image_02.jpg,high_resolution,0.25,1280,car,44,79
+image_02.jpg,high_resolution,0.25,1280,motorcycle,12,79
+image_02.jpg,high_resolution,0.25,1280,airplane,0,79
+image_02.jpg,high_resolution,0.25,1280,bus,1,79
+image_02.jpg,high_resolution,0.25,1280,train,0,79
+image_02.jpg,high_resolution,0.25,1280,truck,2,79
+image_02.jpg,high_resolution,0.25,1280,boat,0,79
+image_02.jpg,high_resolution,0.25,1280,traffic light,0,79
+image_02.jpg,high_resolution,0.25,1280,fire hydrant,0,79
+image_02.jpg,high_resolution,0.25,1280,stop sign,0,79
+image_02.jpg,high_resolution,0.25,1280,parking meter,0,79
+image_02.jpg,high_resolution,0.25,1280,bench,0,79
+image_02.jpg,high_resolution,0.25,1280,bird,0,79
+image_02.jpg,high_resolution,0.25,1280,cat,0,79
+image_02.jpg,high_resolution,0.25,1280,dog,0,79
+image_02.jpg,high_resolution,0.25,1280,horse,0,79
+image_02.jpg,high_resolution,0.25,1280,sheep,0,79
+image_02.jpg,high_resolution,0.25,1280,cow,0,79
+image_02.jpg,high_resolution,0.25,1280,elephant,0,79
+image_02.jpg,high_resolution,0.25,1280,bear,0,79
+image_02.jpg,high_resolution,0.25,1280,zebra,0,79
+image_02.jpg,high_resolution,0.25,1280,giraffe,0,79
+image_02.jpg,high_resolution,0.25,1280,backpack,0,79
+image_02.jpg,high_resolution,0.25,1280,umbrella,0,79
+image_02.jpg,high_resolution,0.25,1280,handbag,0,79
+image_02.jpg,high_resolution,0.25,1280,tie,0,79
+image_02.jpg,high_resolution,0.25,1280,suitcase,0,79
+image_02.jpg,high_resolution,0.25,1280,frisbee,0,79
+image_02.jpg,high_resolution,0.25,1280,skis,0,79
+image_02.jpg,high_resolution,0.25,1280,snowboard,0,79
+image_02.jpg,high_resolution,0.25,1280,sports ball,0,79
+image_02.jpg,high_resolution,0.25,1280,kite,0,79
+image_02.jpg,high_resolution,0.25,1280,baseball bat,0,79
+image_02.jpg,high_resolution,0.25,1280,baseball glove,0,79
+image_02.jpg,high_resolution,0.25,1280,skateboard,0,79
+image_02.jpg,high_resolution,0.25,1280,surfboard,0,79
+image_02.jpg,high_resolution,0.25,1280,tennis racket,0,79
+image_02.jpg,high_resolution,0.25,1280,bottle,0,79
+image_02.jpg,high_resolution,0.25,1280,wine glass,0,79
+image_02.jpg,high_resolution,0.25,1280,cup,0,79
+image_02.jpg,high_resolution,0.25,1280,fork,0,79
+image_02.jpg,high_resolution,0.25,1280,knife,0,79
+image_02.jpg,high_resolution,0.25,1280,spoon,0,79
+image_02.jpg,high_resolution,0.25,1280,bowl,0,79
+image_02.jpg,high_resolution,0.25,1280,banana,0,79
+image_02.jpg,high_resolution,0.25,1280,apple,0,79
+image_02.jpg,high_resolution,0.25,1280,sandwich,0,79
+image_02.jpg,high_resolution,0.25,1280,orange,0,79
+image_02.jpg,high_resolution,0.25,1280,broccoli,0,79
+image_02.jpg,high_resolution,0.25,1280,carrot,0,79
+image_02.jpg,high_resolution,0.25,1280,hot dog,0,79
+image_02.jpg,high_resolution,0.25,1280,pizza,0,79
+image_02.jpg,high_resolution,0.25,1280,donut,0,79
+image_02.jpg,high_resolution,0.25,1280,cake,0,79
+image_02.jpg,high_resolution,0.25,1280,chair,0,79
+image_02.jpg,high_resolution,0.25,1280,couch,0,79
+image_02.jpg,high_resolution,0.25,1280,potted plant,0,79
+image_02.jpg,high_resolution,0.25,1280,bed,0,79
+image_02.jpg,high_resolution,0.25,1280,dining table,0,79
+image_02.jpg,high_resolution,0.25,1280,toilet,0,79
+image_02.jpg,high_resolution,0.25,1280,tv,0,79
+image_02.jpg,high_resolution,0.25,1280,laptop,0,79
+image_02.jpg,high_resolution,0.25,1280,mouse,0,79
+image_02.jpg,high_resolution,0.25,1280,remote,0,79
+image_02.jpg,high_resolution,0.25,1280,keyboard,0,79
+image_02.jpg,high_resolution,0.25,1280,cell phone,0,79
+image_02.jpg,high_resolution,0.25,1280,microwave,0,79
+image_02.jpg,high_resolution,0.25,1280,oven,0,79
+image_02.jpg,high_resolution,0.25,1280,toaster,0,79
+image_02.jpg,high_resolution,0.25,1280,sink,0,79
+image_02.jpg,high_resolution,0.25,1280,refrigerator,0,79
+image_02.jpg,high_resolution,0.25,1280,book,0,79
+image_02.jpg,high_resolution,0.25,1280,clock,0,79
+image_02.jpg,high_resolution,0.25,1280,vase,0,79
+image_02.jpg,high_resolution,0.25,1280,scissors,0,79
+image_02.jpg,high_resolution,0.25,1280,teddy bear,0,79
+image_02.jpg,high_resolution,0.25,1280,hair drier,0,79
+image_02.jpg,high_resolution,0.25,1280,toothbrush,0,79
+image_03.jpg,baseline,0.25,640,person,2,2
+image_03.jpg,baseline,0.25,640,bicycle,0,2
+image_03.jpg,baseline,0.25,640,car,0,2
+image_03.jpg,baseline,0.25,640,motorcycle,0,2
+image_03.jpg,baseline,0.25,640,airplane,0,2
+image_03.jpg,baseline,0.25,640,bus,0,2
+image_03.jpg,baseline,0.25,640,train,0,2
+image_03.jpg,baseline,0.25,640,truck,0,2
+image_03.jpg,baseline,0.25,640,boat,0,2
+image_03.jpg,baseline,0.25,640,traffic light,0,2
+image_03.jpg,baseline,0.25,640,fire hydrant,0,2
+image_03.jpg,baseline,0.25,640,stop sign,0,2
+image_03.jpg,baseline,0.25,640,parking meter,0,2
+image_03.jpg,baseline,0.25,640,bench,0,2
+image_03.jpg,baseline,0.25,640,bird,0,2
+image_03.jpg,baseline,0.25,640,cat,0,2
+image_03.jpg,baseline,0.25,640,dog,0,2
+image_03.jpg,baseline,0.25,640,horse,0,2
+image_03.jpg,baseline,0.25,640,sheep,0,2
+image_03.jpg,baseline,0.25,640,cow,0,2
+image_03.jpg,baseline,0.25,640,elephant,0,2
+image_03.jpg,baseline,0.25,640,bear,0,2
+image_03.jpg,baseline,0.25,640,zebra,0,2
+image_03.jpg,baseline,0.25,640,giraffe,0,2
+image_03.jpg,baseline,0.25,640,backpack,0,2
+image_03.jpg,baseline,0.25,640,umbrella,0,2
+image_03.jpg,baseline,0.25,640,handbag,0,2
+image_03.jpg,baseline,0.25,640,tie,0,2
+image_03.jpg,baseline,0.25,640,suitcase,0,2
+image_03.jpg,baseline,0.25,640,frisbee,0,2
+image_03.jpg,baseline,0.25,640,skis,0,2
+image_03.jpg,baseline,0.25,640,snowboard,0,2
+image_03.jpg,baseline,0.25,640,sports ball,0,2
+image_03.jpg,baseline,0.25,640,kite,0,2
+image_03.jpg,baseline,0.25,640,baseball bat,0,2
+image_03.jpg,baseline,0.25,640,baseball glove,0,2
+image_03.jpg,baseline,0.25,640,skateboard,0,2
+image_03.jpg,baseline,0.25,640,surfboard,0,2
+image_03.jpg,baseline,0.25,640,tennis racket,0,2
+image_03.jpg,baseline,0.25,640,bottle,0,2
+image_03.jpg,baseline,0.25,640,wine glass,0,2
+image_03.jpg,baseline,0.25,640,cup,0,2
+image_03.jpg,baseline,0.25,640,fork,0,2
+image_03.jpg,baseline,0.25,640,knife,0,2
+image_03.jpg,baseline,0.25,640,spoon,0,2
+image_03.jpg,baseline,0.25,640,bowl,0,2
+image_03.jpg,baseline,0.25,640,banana,0,2
+image_03.jpg,baseline,0.25,640,apple,0,2
+image_03.jpg,baseline,0.25,640,sandwich,0,2
+image_03.jpg,baseline,0.25,640,orange,0,2
+image_03.jpg,baseline,0.25,640,broccoli,0,2
+image_03.jpg,baseline,0.25,640,carrot,0,2
+image_03.jpg,baseline,0.25,640,hot dog,0,2
+image_03.jpg,baseline,0.25,640,pizza,0,2
+image_03.jpg,baseline,0.25,640,donut,0,2
+image_03.jpg,baseline,0.25,640,cake,0,2
+image_03.jpg,baseline,0.25,640,chair,0,2
+image_03.jpg,baseline,0.25,640,couch,0,2
+image_03.jpg,baseline,0.25,640,potted plant,0,2
+image_03.jpg,baseline,0.25,640,bed,0,2
+image_03.jpg,baseline,0.25,640,dining table,0,2
+image_03.jpg,baseline,0.25,640,toilet,0,2
+image_03.jpg,baseline,0.25,640,tv,0,2
+image_03.jpg,baseline,0.25,640,laptop,0,2
+image_03.jpg,baseline,0.25,640,mouse,0,2
+image_03.jpg,baseline,0.25,640,remote,0,2
+image_03.jpg,baseline,0.25,640,keyboard,0,2
+image_03.jpg,baseline,0.25,640,cell phone,0,2
+image_03.jpg,baseline,0.25,640,microwave,0,2
+image_03.jpg,baseline,0.25,640,oven,0,2
+image_03.jpg,baseline,0.25,640,toaster,0,2
+image_03.jpg,baseline,0.25,640,sink,0,2
+image_03.jpg,baseline,0.25,640,refrigerator,0,2
+image_03.jpg,baseline,0.25,640,book,0,2
+image_03.jpg,baseline,0.25,640,clock,0,2
+image_03.jpg,baseline,0.25,640,vase,0,2
+image_03.jpg,baseline,0.25,640,scissors,0,2
+image_03.jpg,baseline,0.25,640,teddy bear,0,2
+image_03.jpg,baseline,0.25,640,hair drier,0,2
+image_03.jpg,baseline,0.25,640,toothbrush,0,2
+image_03.jpg,low_confidence,0.1,640,person,22,22
+image_03.jpg,low_confidence,0.1,640,bicycle,0,22
+image_03.jpg,low_confidence,0.1,640,car,0,22
+image_03.jpg,low_confidence,0.1,640,motorcycle,0,22
+image_03.jpg,low_confidence,0.1,640,airplane,0,22
+image_03.jpg,low_confidence,0.1,640,bus,0,22
+image_03.jpg,low_confidence,0.1,640,train,0,22
+image_03.jpg,low_confidence,0.1,640,truck,0,22
+image_03.jpg,low_confidence,0.1,640,boat,0,22
+image_03.jpg,low_confidence,0.1,640,traffic light,0,22
+image_03.jpg,low_confidence,0.1,640,fire hydrant,0,22
+image_03.jpg,low_confidence,0.1,640,stop sign,0,22
+image_03.jpg,low_confidence,0.1,640,parking meter,0,22
+image_03.jpg,low_confidence,0.1,640,bench,0,22
+image_03.jpg,low_confidence,0.1,640,bird,0,22
+image_03.jpg,low_confidence,0.1,640,cat,0,22
+image_03.jpg,low_confidence,0.1,640,dog,0,22
+image_03.jpg,low_confidence,0.1,640,horse,0,22
+image_03.jpg,low_confidence,0.1,640,sheep,0,22
+image_03.jpg,low_confidence,0.1,640,cow,0,22
+image_03.jpg,low_confidence,0.1,640,elephant,0,22
+image_03.jpg,low_confidence,0.1,640,bear,0,22
+image_03.jpg,low_confidence,0.1,640,zebra,0,22
+image_03.jpg,low_confidence,0.1,640,giraffe,0,22
+image_03.jpg,low_confidence,0.1,640,backpack,0,22
+image_03.jpg,low_confidence,0.1,640,umbrella,0,22
+image_03.jpg,low_confidence,0.1,640,handbag,0,22
+image_03.jpg,low_confidence,0.1,640,tie,0,22
+image_03.jpg,low_confidence,0.1,640,suitcase,0,22
+image_03.jpg,low_confidence,0.1,640,frisbee,0,22
+image_03.jpg,low_confidence,0.1,640,skis,0,22
+image_03.jpg,low_confidence,0.1,640,snowboard,0,22
+image_03.jpg,low_confidence,0.1,640,sports ball,0,22
+image_03.jpg,low_confidence,0.1,640,kite,0,22
+image_03.jpg,low_confidence,0.1,640,baseball bat,0,22
+image_03.jpg,low_confidence,0.1,640,baseball glove,0,22
+image_03.jpg,low_confidence,0.1,640,skateboard,0,22
+image_03.jpg,low_confidence,0.1,640,surfboard,0,22
+image_03.jpg,low_confidence,0.1,640,tennis racket,0,22
+image_03.jpg,low_confidence,0.1,640,bottle,0,22
+image_03.jpg,low_confidence,0.1,640,wine glass,0,22
+image_03.jpg,low_confidence,0.1,640,cup,0,22
+image_03.jpg,low_confidence,0.1,640,fork,0,22
+image_03.jpg,low_confidence,0.1,640,knife,0,22
+image_03.jpg,low_confidence,0.1,640,spoon,0,22
+image_03.jpg,low_confidence,0.1,640,bowl,0,22
+image_03.jpg,low_confidence,0.1,640,banana,0,22
+image_03.jpg,low_confidence,0.1,640,apple,0,22
+image_03.jpg,low_confidence,0.1,640,sandwich,0,22
+image_03.jpg,low_confidence,0.1,640,orange,0,22
+image_03.jpg,low_confidence,0.1,640,broccoli,0,22
+image_03.jpg,low_confidence,0.1,640,carrot,0,22
+image_03.jpg,low_confidence,0.1,640,hot dog,0,22
+image_03.jpg,low_confidence,0.1,640,pizza,0,22
+image_03.jpg,low_confidence,0.1,640,donut,0,22
+image_03.jpg,low_confidence,0.1,640,cake,0,22
+image_03.jpg,low_confidence,0.1,640,chair,0,22
+image_03.jpg,low_confidence,0.1,640,couch,0,22
+image_03.jpg,low_confidence,0.1,640,potted plant,0,22
+image_03.jpg,low_confidence,0.1,640,bed,0,22
+image_03.jpg,low_confidence,0.1,640,dining table,0,22
+image_03.jpg,low_confidence,0.1,640,toilet,0,22
+image_03.jpg,low_confidence,0.1,640,tv,0,22
+image_03.jpg,low_confidence,0.1,640,laptop,0,22
+image_03.jpg,low_confidence,0.1,640,mouse,0,22
+image_03.jpg,low_confidence,0.1,640,remote,0,22
+image_03.jpg,low_confidence,0.1,640,keyboard,0,22
+image_03.jpg,low_confidence,0.1,640,cell phone,0,22
+image_03.jpg,low_confidence,0.1,640,microwave,0,22
+image_03.jpg,low_confidence,0.1,640,oven,0,22
+image_03.jpg,low_confidence,0.1,640,toaster,0,22
+image_03.jpg,low_confidence,0.1,640,sink,0,22
+image_03.jpg,low_confidence,0.1,640,refrigerator,0,22
+image_03.jpg,low_confidence,0.1,640,book,0,22
+image_03.jpg,low_confidence,0.1,640,clock,0,22
+image_03.jpg,low_confidence,0.1,640,vase,0,22
+image_03.jpg,low_confidence,0.1,640,scissors,0,22
+image_03.jpg,low_confidence,0.1,640,teddy bear,0,22
+image_03.jpg,low_confidence,0.1,640,hair drier,0,22
+image_03.jpg,low_confidence,0.1,640,toothbrush,0,22
+image_03.jpg,high_resolution,0.25,1280,person,20,20
+image_03.jpg,high_resolution,0.25,1280,bicycle,0,20
+image_03.jpg,high_resolution,0.25,1280,car,0,20
+image_03.jpg,high_resolution,0.25,1280,motorcycle,0,20
+image_03.jpg,high_resolution,0.25,1280,airplane,0,20
+image_03.jpg,high_resolution,0.25,1280,bus,0,20
+image_03.jpg,high_resolution,0.25,1280,train,0,20
+image_03.jpg,high_resolution,0.25,1280,truck,0,20
+image_03.jpg,high_resolution,0.25,1280,boat,0,20
+image_03.jpg,high_resolution,0.25,1280,traffic light,0,20
+image_03.jpg,high_resolution,0.25,1280,fire hydrant,0,20
+image_03.jpg,high_resolution,0.25,1280,stop sign,0,20
+image_03.jpg,high_resolution,0.25,1280,parking meter,0,20
+image_03.jpg,high_resolution,0.25,1280,bench,0,20
+image_03.jpg,high_resolution,0.25,1280,bird,0,20
+image_03.jpg,high_resolution,0.25,1280,cat,0,20
+image_03.jpg,high_resolution,0.25,1280,dog,0,20
+image_03.jpg,high_resolution,0.25,1280,horse,0,20
+image_03.jpg,high_resolution,0.25,1280,sheep,0,20
+image_03.jpg,high_resolution,0.25,1280,cow,0,20
+image_03.jpg,high_resolution,0.25,1280,elephant,0,20
+image_03.jpg,high_resolution,0.25,1280,bear,0,20
+image_03.jpg,high_resolution,0.25,1280,zebra,0,20
+image_03.jpg,high_resolution,0.25,1280,giraffe,0,20
+image_03.jpg,high_resolution,0.25,1280,backpack,0,20
+image_03.jpg,high_resolution,0.25,1280,umbrella,0,20
+image_03.jpg,high_resolution,0.25,1280,handbag,0,20
+image_03.jpg,high_resolution,0.25,1280,tie,0,20
+image_03.jpg,high_resolution,0.25,1280,suitcase,0,20
+image_03.jpg,high_resolution,0.25,1280,frisbee,0,20
+image_03.jpg,high_resolution,0.25,1280,skis,0,20
+image_03.jpg,high_resolution,0.25,1280,snowboard,0,20
+image_03.jpg,high_resolution,0.25,1280,sports ball,0,20
+image_03.jpg,high_resolution,0.25,1280,kite,0,20
+image_03.jpg,high_resolution,0.25,1280,baseball bat,0,20
+image_03.jpg,high_resolution,0.25,1280,baseball glove,0,20
+image_03.jpg,high_resolution,0.25,1280,skateboard,0,20
+image_03.jpg,high_resolution,0.25,1280,surfboard,0,20
+image_03.jpg,high_resolution,0.25,1280,tennis racket,0,20
+image_03.jpg,high_resolution,0.25,1280,bottle,0,20
+image_03.jpg,high_resolution,0.25,1280,wine glass,0,20
+image_03.jpg,high_resolution,0.25,1280,cup,0,20
+image_03.jpg,high_resolution,0.25,1280,fork,0,20
+image_03.jpg,high_resolution,0.25,1280,knife,0,20
+image_03.jpg,high_resolution,0.25,1280,spoon,0,20
+image_03.jpg,high_resolution,0.25,1280,bowl,0,20
+image_03.jpg,high_resolution,0.25,1280,banana,0,20
+image_03.jpg,high_resolution,0.25,1280,apple,0,20
+image_03.jpg,high_resolution,0.25,1280,sandwich,0,20
+image_03.jpg,high_resolution,0.25,1280,orange,0,20
+image_03.jpg,high_resolution,0.25,1280,broccoli,0,20
+image_03.jpg,high_resolution,0.25,1280,carrot,0,20
+image_03.jpg,high_resolution,0.25,1280,hot dog,0,20
+image_03.jpg,high_resolution,0.25,1280,pizza,0,20
+image_03.jpg,high_resolution,0.25,1280,donut,0,20
+image_03.jpg,high_resolution,0.25,1280,cake,0,20
+image_03.jpg,high_resolution,0.25,1280,chair,0,20
+image_03.jpg,high_resolution,0.25,1280,couch,0,20
+image_03.jpg,high_resolution,0.25,1280,potted plant,0,20
+image_03.jpg,high_resolution,0.25,1280,bed,0,20
+image_03.jpg,high_resolution,0.25,1280,dining table,0,20
+image_03.jpg,high_resolution,0.25,1280,toilet,0,20
+image_03.jpg,high_resolution,0.25,1280,tv,0,20
+image_03.jpg,high_resolution,0.25,1280,laptop,0,20
+image_03.jpg,high_resolution,0.25,1280,mouse,0,20
+image_03.jpg,high_resolution,0.25,1280,remote,0,20
+image_03.jpg,high_resolution,0.25,1280,keyboard,0,20
+image_03.jpg,high_resolution,0.25,1280,cell phone,0,20
+image_03.jpg,high_resolution,0.25,1280,microwave,0,20
+image_03.jpg,high_resolution,0.25,1280,oven,0,20
+image_03.jpg,high_resolution,0.25,1280,toaster,0,20
+image_03.jpg,high_resolution,0.25,1280,sink,0,20
+image_03.jpg,high_resolution,0.25,1280,refrigerator,0,20
+image_03.jpg,high_resolution,0.25,1280,book,0,20
+image_03.jpg,high_resolution,0.25,1280,clock,0,20
+image_03.jpg,high_resolution,0.25,1280,vase,0,20
+image_03.jpg,high_resolution,0.25,1280,scissors,0,20
+image_03.jpg,high_resolution,0.25,1280,teddy bear,0,20
+image_03.jpg,high_resolution,0.25,1280,hair drier,0,20
+image_03.jpg,high_resolution,0.25,1280,toothbrush,0,20
+image_04.jpg,baseline,0.25,640,person,0,0
+image_04.jpg,baseline,0.25,640,bicycle,0,0
+image_04.jpg,baseline,0.25,640,car,0,0
+image_04.jpg,baseline,0.25,640,motorcycle,0,0
+image_04.jpg,baseline,0.25,640,airplane,0,0
+image_04.jpg,baseline,0.25,640,bus,0,0
+image_04.jpg,baseline,0.25,640,train,0,0
+image_04.jpg,baseline,0.25,640,truck,0,0
+image_04.jpg,baseline,0.25,640,boat,0,0
+image_04.jpg,baseline,0.25,640,traffic light,0,0
+image_04.jpg,baseline,0.25,640,fire hydrant,0,0
+image_04.jpg,baseline,0.25,640,stop sign,0,0
+image_04.jpg,baseline,0.25,640,parking meter,0,0
+image_04.jpg,baseline,0.25,640,bench,0,0
+image_04.jpg,baseline,0.25,640,bird,0,0
+image_04.jpg,baseline,0.25,640,cat,0,0
+image_04.jpg,baseline,0.25,640,dog,0,0
+image_04.jpg,baseline,0.25,640,horse,0,0
+image_04.jpg,baseline,0.25,640,sheep,0,0
+image_04.jpg,baseline,0.25,640,cow,0,0
+image_04.jpg,baseline,0.25,640,elephant,0,0
+image_04.jpg,baseline,0.25,640,bear,0,0
+image_04.jpg,baseline,0.25,640,zebra,0,0
+image_04.jpg,baseline,0.25,640,giraffe,0,0
+image_04.jpg,baseline,0.25,640,backpack,0,0
+image_04.jpg,baseline,0.25,640,umbrella,0,0
+image_04.jpg,baseline,0.25,640,handbag,0,0
+image_04.jpg,baseline,0.25,640,tie,0,0
+image_04.jpg,baseline,0.25,640,suitcase,0,0
+image_04.jpg,baseline,0.25,640,frisbee,0,0
+image_04.jpg,baseline,0.25,640,skis,0,0
+image_04.jpg,baseline,0.25,640,snowboard,0,0
+image_04.jpg,baseline,0.25,640,sports ball,0,0
+image_04.jpg,baseline,0.25,640,kite,0,0
+image_04.jpg,baseline,0.25,640,baseball bat,0,0
+image_04.jpg,baseline,0.25,640,baseball glove,0,0
+image_04.jpg,baseline,0.25,640,skateboard,0,0
+image_04.jpg,baseline,0.25,640,surfboard,0,0
+image_04.jpg,baseline,0.25,640,tennis racket,0,0
+image_04.jpg,baseline,0.25,640,bottle,0,0
+image_04.jpg,baseline,0.25,640,wine glass,0,0
+image_04.jpg,baseline,0.25,640,cup,0,0
+image_04.jpg,baseline,0.25,640,fork,0,0
+image_04.jpg,baseline,0.25,640,knife,0,0
+image_04.jpg,baseline,0.25,640,spoon,0,0
+image_04.jpg,baseline,0.25,640,bowl,0,0
+image_04.jpg,baseline,0.25,640,banana,0,0
+image_04.jpg,baseline,0.25,640,apple,0,0
+image_04.jpg,baseline,0.25,640,sandwich,0,0
+image_04.jpg,baseline,0.25,640,orange,0,0
+image_04.jpg,baseline,0.25,640,broccoli,0,0
+image_04.jpg,baseline,0.25,640,carrot,0,0
+image_04.jpg,baseline,0.25,640,hot dog,0,0
+image_04.jpg,baseline,0.25,640,pizza,0,0
+image_04.jpg,baseline,0.25,640,donut,0,0
+image_04.jpg,baseline,0.25,640,cake,0,0
+image_04.jpg,baseline,0.25,640,chair,0,0
+image_04.jpg,baseline,0.25,640,couch,0,0
+image_04.jpg,baseline,0.25,640,potted plant,0,0
+image_04.jpg,baseline,0.25,640,bed,0,0
+image_04.jpg,baseline,0.25,640,dining table,0,0
+image_04.jpg,baseline,0.25,640,toilet,0,0
+image_04.jpg,baseline,0.25,640,tv,0,0
+image_04.jpg,baseline,0.25,640,laptop,0,0
+image_04.jpg,baseline,0.25,640,mouse,0,0
+image_04.jpg,baseline,0.25,640,remote,0,0
+image_04.jpg,baseline,0.25,640,keyboard,0,0
+image_04.jpg,baseline,0.25,640,cell phone,0,0
+image_04.jpg,baseline,0.25,640,microwave,0,0
+image_04.jpg,baseline,0.25,640,oven,0,0
+image_04.jpg,baseline,0.25,640,toaster,0,0
+image_04.jpg,baseline,0.25,640,sink,0,0
+image_04.jpg,baseline,0.25,640,refrigerator,0,0
+image_04.jpg,baseline,0.25,640,book,0,0
+image_04.jpg,baseline,0.25,640,clock,0,0
+image_04.jpg,baseline,0.25,640,vase,0,0
+image_04.jpg,baseline,0.25,640,scissors,0,0
+image_04.jpg,baseline,0.25,640,teddy bear,0,0
+image_04.jpg,baseline,0.25,640,hair drier,0,0
+image_04.jpg,baseline,0.25,640,toothbrush,0,0
+image_04.jpg,low_confidence,0.1,640,person,0,0
+image_04.jpg,low_confidence,0.1,640,bicycle,0,0
+image_04.jpg,low_confidence,0.1,640,car,0,0
+image_04.jpg,low_confidence,0.1,640,motorcycle,0,0
+image_04.jpg,low_confidence,0.1,640,airplane,0,0
+image_04.jpg,low_confidence,0.1,640,bus,0,0
+image_04.jpg,low_confidence,0.1,640,train,0,0
+image_04.jpg,low_confidence,0.1,640,truck,0,0
+image_04.jpg,low_confidence,0.1,640,boat,0,0
+image_04.jpg,low_confidence,0.1,640,traffic light,0,0
+image_04.jpg,low_confidence,0.1,640,fire hydrant,0,0
+image_04.jpg,low_confidence,0.1,640,stop sign,0,0
+image_04.jpg,low_confidence,0.1,640,parking meter,0,0
+image_04.jpg,low_confidence,0.1,640,bench,0,0
+image_04.jpg,low_confidence,0.1,640,bird,0,0
+image_04.jpg,low_confidence,0.1,640,cat,0,0
+image_04.jpg,low_confidence,0.1,640,dog,0,0
+image_04.jpg,low_confidence,0.1,640,horse,0,0
+image_04.jpg,low_confidence,0.1,640,sheep,0,0
+image_04.jpg,low_confidence,0.1,640,cow,0,0
+image_04.jpg,low_confidence,0.1,640,elephant,0,0
+image_04.jpg,low_confidence,0.1,640,bear,0,0
+image_04.jpg,low_confidence,0.1,640,zebra,0,0
+image_04.jpg,low_confidence,0.1,640,giraffe,0,0
+image_04.jpg,low_confidence,0.1,640,backpack,0,0
+image_04.jpg,low_confidence,0.1,640,umbrella,0,0
+image_04.jpg,low_confidence,0.1,640,handbag,0,0
+image_04.jpg,low_confidence,0.1,640,tie,0,0
+image_04.jpg,low_confidence,0.1,640,suitcase,0,0
+image_04.jpg,low_confidence,0.1,640,frisbee,0,0
+image_04.jpg,low_confidence,0.1,640,skis,0,0
+image_04.jpg,low_confidence,0.1,640,snowboard,0,0
+image_04.jpg,low_confidence,0.1,640,sports ball,0,0
+image_04.jpg,low_confidence,0.1,640,kite,0,0
+image_04.jpg,low_confidence,0.1,640,baseball bat,0,0
+image_04.jpg,low_confidence,0.1,640,baseball glove,0,0
+image_04.jpg,low_confidence,0.1,640,skateboard,0,0
+image_04.jpg,low_confidence,0.1,640,surfboard,0,0
+image_04.jpg,low_confidence,0.1,640,tennis racket,0,0
+image_04.jpg,low_confidence,0.1,640,bottle,0,0
+image_04.jpg,low_confidence,0.1,640,wine glass,0,0
+image_04.jpg,low_confidence,0.1,640,cup,0,0
+image_04.jpg,low_confidence,0.1,640,fork,0,0
+image_04.jpg,low_confidence,0.1,640,knife,0,0
+image_04.jpg,low_confidence,0.1,640,spoon,0,0
+image_04.jpg,low_confidence,0.1,640,bowl,0,0
+image_04.jpg,low_confidence,0.1,640,banana,0,0
+image_04.jpg,low_confidence,0.1,640,apple,0,0
+image_04.jpg,low_confidence,0.1,640,sandwich,0,0
+image_04.jpg,low_confidence,0.1,640,orange,0,0
+image_04.jpg,low_confidence,0.1,640,broccoli,0,0
+image_04.jpg,low_confidence,0.1,640,carrot,0,0
+image_04.jpg,low_confidence,0.1,640,hot dog,0,0
+image_04.jpg,low_confidence,0.1,640,pizza,0,0
+image_04.jpg,low_confidence,0.1,640,donut,0,0
+image_04.jpg,low_confidence,0.1,640,cake,0,0
+image_04.jpg,low_confidence,0.1,640,chair,0,0
+image_04.jpg,low_confidence,0.1,640,couch,0,0
+image_04.jpg,low_confidence,0.1,640,potted plant,0,0
+image_04.jpg,low_confidence,0.1,640,bed,0,0
+image_04.jpg,low_confidence,0.1,640,dining table,0,0
+image_04.jpg,low_confidence,0.1,640,toilet,0,0
+image_04.jpg,low_confidence,0.1,640,tv,0,0
+image_04.jpg,low_confidence,0.1,640,laptop,0,0
+image_04.jpg,low_confidence,0.1,640,mouse,0,0
+image_04.jpg,low_confidence,0.1,640,remote,0,0
+image_04.jpg,low_confidence,0.1,640,keyboard,0,0
+image_04.jpg,low_confidence,0.1,640,cell phone,0,0
+image_04.jpg,low_confidence,0.1,640,microwave,0,0
+image_04.jpg,low_confidence,0.1,640,oven,0,0
+image_04.jpg,low_confidence,0.1,640,toaster,0,0
+image_04.jpg,low_confidence,0.1,640,sink,0,0
+image_04.jpg,low_confidence,0.1,640,refrigerator,0,0
+image_04.jpg,low_confidence,0.1,640,book,0,0
+image_04.jpg,low_confidence,0.1,640,clock,0,0
+image_04.jpg,low_confidence,0.1,640,vase,0,0
+image_04.jpg,low_confidence,0.1,640,scissors,0,0
+image_04.jpg,low_confidence,0.1,640,teddy bear,0,0
+image_04.jpg,low_confidence,0.1,640,hair drier,0,0
+image_04.jpg,low_confidence,0.1,640,toothbrush,0,0
+image_04.jpg,high_resolution,0.25,1280,person,0,0
+image_04.jpg,high_resolution,0.25,1280,bicycle,0,0
+image_04.jpg,high_resolution,0.25,1280,car,0,0
+image_04.jpg,high_resolution,0.25,1280,motorcycle,0,0
+image_04.jpg,high_resolution,0.25,1280,airplane,0,0
+image_04.jpg,high_resolution,0.25,1280,bus,0,0
+image_04.jpg,high_resolution,0.25,1280,train,0,0
+image_04.jpg,high_resolution,0.25,1280,truck,0,0
+image_04.jpg,high_resolution,0.25,1280,boat,0,0
+image_04.jpg,high_resolution,0.25,1280,traffic light,0,0
+image_04.jpg,high_resolution,0.25,1280,fire hydrant,0,0
+image_04.jpg,high_resolution,0.25,1280,stop sign,0,0
+image_04.jpg,high_resolution,0.25,1280,parking meter,0,0
+image_04.jpg,high_resolution,0.25,1280,bench,0,0
+image_04.jpg,high_resolution,0.25,1280,bird,0,0
+image_04.jpg,high_resolution,0.25,1280,cat,0,0
+image_04.jpg,high_resolution,0.25,1280,dog,0,0
+image_04.jpg,high_resolution,0.25,1280,horse,0,0
+image_04.jpg,high_resolution,0.25,1280,sheep,0,0
+image_04.jpg,high_resolution,0.25,1280,cow,0,0
+image_04.jpg,high_resolution,0.25,1280,elephant,0,0
+image_04.jpg,high_resolution,0.25,1280,bear,0,0
+image_04.jpg,high_resolution,0.25,1280,zebra,0,0
+image_04.jpg,high_resolution,0.25,1280,giraffe,0,0
+image_04.jpg,high_resolution,0.25,1280,backpack,0,0
+image_04.jpg,high_resolution,0.25,1280,umbrella,0,0
+image_04.jpg,high_resolution,0.25,1280,handbag,0,0
+image_04.jpg,high_resolution,0.25,1280,tie,0,0
+image_04.jpg,high_resolution,0.25,1280,suitcase,0,0
+image_04.jpg,high_resolution,0.25,1280,frisbee,0,0
+image_04.jpg,high_resolution,0.25,1280,skis,0,0
+image_04.jpg,high_resolution,0.25,1280,snowboard,0,0
+image_04.jpg,high_resolution,0.25,1280,sports ball,0,0
+image_04.jpg,high_resolution,0.25,1280,kite,0,0
+image_04.jpg,high_resolution,0.25,1280,baseball bat,0,0
+image_04.jpg,high_resolution,0.25,1280,baseball glove,0,0
+image_04.jpg,high_resolution,0.25,1280,skateboard,0,0
+image_04.jpg,high_resolution,0.25,1280,surfboard,0,0
+image_04.jpg,high_resolution,0.25,1280,tennis racket,0,0
+image_04.jpg,high_resolution,0.25,1280,bottle,0,0
+image_04.jpg,high_resolution,0.25,1280,wine glass,0,0
+image_04.jpg,high_resolution,0.25,1280,cup,0,0
+image_04.jpg,high_resolution,0.25,1280,fork,0,0
+image_04.jpg,high_resolution,0.25,1280,knife,0,0
+image_04.jpg,high_resolution,0.25,1280,spoon,0,0
+image_04.jpg,high_resolution,0.25,1280,bowl,0,0
+image_04.jpg,high_resolution,0.25,1280,banana,0,0
+image_04.jpg,high_resolution,0.25,1280,apple,0,0
+image_04.jpg,high_resolution,0.25,1280,sandwich,0,0
+image_04.jpg,high_resolution,0.25,1280,orange,0,0
+image_04.jpg,high_resolution,0.25,1280,broccoli,0,0
+image_04.jpg,high_resolution,0.25,1280,carrot,0,0
+image_04.jpg,high_resolution,0.25,1280,hot dog,0,0
+image_04.jpg,high_resolution,0.25,1280,pizza,0,0
+image_04.jpg,high_resolution,0.25,1280,donut,0,0
+image_04.jpg,high_resolution,0.25,1280,cake,0,0
+image_04.jpg,high_resolution,0.25,1280,chair,0,0
+image_04.jpg,high_resolution,0.25,1280,couch,0,0
+image_04.jpg,high_resolution,0.25,1280,potted plant,0,0
+image_04.jpg,high_resolution,0.25,1280,bed,0,0
+image_04.jpg,high_resolution,0.25,1280,dining table,0,0
+image_04.jpg,high_resolution,0.25,1280,toilet,0,0
+image_04.jpg,high_resolution,0.25,1280,tv,0,0
+image_04.jpg,high_resolution,0.25,1280,laptop,0,0
+image_04.jpg,high_resolution,0.25,1280,mouse,0,0
+image_04.jpg,high_resolution,0.25,1280,remote,0,0
+image_04.jpg,high_resolution,0.25,1280,keyboard,0,0
+image_04.jpg,high_resolution,0.25,1280,cell phone,0,0
+image_04.jpg,high_resolution,0.25,1280,microwave,0,0
+image_04.jpg,high_resolution,0.25,1280,oven,0,0
+image_04.jpg,high_resolution,0.25,1280,toaster,0,0
+image_04.jpg,high_resolution,0.25,1280,sink,0,0
+image_04.jpg,high_resolution,0.25,1280,refrigerator,0,0
+image_04.jpg,high_resolution,0.25,1280,book,0,0
+image_04.jpg,high_resolution,0.25,1280,clock,0,0
+image_04.jpg,high_resolution,0.25,1280,vase,0,0
+image_04.jpg,high_resolution,0.25,1280,scissors,0,0
+image_04.jpg,high_resolution,0.25,1280,teddy bear,0,0
+image_04.jpg,high_resolution,0.25,1280,hair drier,0,0
+image_04.jpg,high_resolution,0.25,1280,toothbrush,0,0

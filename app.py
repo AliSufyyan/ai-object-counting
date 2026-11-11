@@ -2,7 +2,7 @@ import pandas as pd
 import tempfile
 from pathlib import Path
 import streamlit as st
-from src.detector import ObjectDetector
+from src.sahi_detector import SahiObjectDetector
 from src.counter import ObjectCounter
 from src.exporter import ResultExporter
 st.set_page_config(
@@ -28,16 +28,21 @@ if uploaded_file is not None:
     st.image(
         uploaded_file,
         caption="Uploaded Image",
-        use_container_width=True
+        width=400
     )
 
 @st.cache_resource
 def load_detector():
-    return ObjectDetector()
+    return SahiObjectDetector(
+        confidence=0.25,
+        slice_size=640,
+        overlap=0.20,
+        match_threshold=0.1
+    )
 
 detector = load_detector()
 
-class_names = list(detector.model.names.values())
+class_names = list(detector.names.values())
 
 selected_classes = st.multiselect(
     "Select objects to count",
@@ -48,7 +53,7 @@ confidence = st.slider(
     "Confidence Threshold",
     min_value=0.05,
     max_value=1.0,
-    value=0.25,
+    value=0.35,
     step=0.05,
     help="Only detections with confidence at or above this value will be considered."
 )
